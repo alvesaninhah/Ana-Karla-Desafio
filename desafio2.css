@@ -1,0 +1,49 @@
+header {
+   background-color: orange;
+   text-align: center;
+}
+ 
+.fotoperfil {
+   
+    background-image: url('fotinha.jpg');
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+}
+
+section {
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: #c9c4c4;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.tsobremim {
+    text-decoration: underline;
+}
+
+.descrição {
+    text-decoration: underline;
+}
+
+.interesses {
+    text-decoration: underline;
+}
+
+ul {
+    text-align: left;
+    margin: 20px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+footer{
+    text-align: center;
+}
